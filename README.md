@@ -21,8 +21,8 @@ A Python script to monitor and log NVIDIA GPU temperatures using `nvidia-smi`. T
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/gpu-temperature-monitor.git
-cd gpu-temperature-monitor
+git clone https://github.com/Johannes-T-E/logger_gpu-temperature.git
+cd logger_gpu-temperature-monitor
 ```
 
 2. (Optional) Create and activate a virtual environment:
