@@ -91,15 +91,7 @@ CREATE TABLE gpu_temperatures (
 )
 ```
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Acknowledgments
-
-- Uses `nvidia-smi` for GPU temperature monitoring
-- Built with Python's standard library 
